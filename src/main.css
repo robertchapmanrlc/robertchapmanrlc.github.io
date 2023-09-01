@@ -1,0 +1,16 @@
+@font-face {
+    font-family: Sans;
+    src: url('../fonts/PublicSans-VariableFont_wght.ttf');
+}
+
+.main {
+    width: 80%;
+    margin: 75px auto;
+}
+
+.main h1 {
+    color: white;
+    padding-inline: 2%;
+    font-size: 50px;
+    font-family: Sans, sans-serif;
+}
